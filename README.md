@@ -21,4 +21,4 @@ To build for Android (should have Android Studio):
 - Build and Run
 
 # Notes 
-- A full doucumentation of the game is available on my [https://medium.com/@df.eporwei/deinyefas-puzzler-project-c23383ab2128#.76pqh8a43] Medium page
+- A full doucumentation of the game is available on my [https://medium.com/@df.eporwei/deinyefas-puzzler-project-c23383ab2128#.76pqh8a43] (Medium) page
