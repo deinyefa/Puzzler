@@ -1,2 +1,0 @@
-# Puzzler
-Simple VR experience
