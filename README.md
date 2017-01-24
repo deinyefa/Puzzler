@@ -7,7 +7,7 @@ An important design consideration was to create it such that the player can intu
 # Puzzler
 The project was successful because of the continuous iterative process used through out its development to consistently improve game play. For user-testing, I included people who do not have much experience with VR and those who are familiar with it.
 
-
+![Demo](https://cloud.githubusercontent.com/assets/18746993/22241317/ddd5c282-e1ec-11e6-973b-f1a55703ad95.gif)
 Game Play in Unity
 
 ![Mid-game](https://cloud.githubusercontent.com/assets/18746993/22240951/4d754b1e-e1eb-11e6-92da-0a9bd42ec502.png)
@@ -23,7 +23,7 @@ Sketches
 Here are some of the sketches I created to helped me lay the groundwork for the design of this project.
 
 
-User Testing
+# User Testing
 Testing the scene and atmosphere
 To test the scene and atmosphere, I asked a user who is familiar with VR and placed him inside the room. I had only designed the room at this point so the user was testing the scale, mood and any other interesting features. The user used the size of the door and the ceiling height to gauge his height and confirmed that it felt like his actual height. He noted that the atmosphere of the room was “horror-ish”, but could be a bit darker and was interested in what would be beyond the door. My response was to correct the lightening.
 Testing the UI elements
@@ -40,7 +40,9 @@ Intro
 In the moment
 
 Outro
-Conclusion
+
+# Conclusion
 Overall, Puzzler is a short duration VR experience designed to showcase how simple and seamless virtual reality can be. It demonstrates the power of lighting, audio and visual cues and how combined, they can make or break any VR experience.
-Next Steps
+
+# Next Steps
 For future development, Puzzler could be made more complex with additional rooms and levels of difficulty and perhaps even a story line.
