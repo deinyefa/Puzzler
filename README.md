@@ -1,4 +1,4 @@
-# Puzzler
+# About
 As part of my coursework in the VR nanodegree at Udacity, I designed, tested and iterated a mobile VR game called Puzzler. In this game, the player is to enter a dreary room and test their memorization skills by trying to replicate patterns shown to them. The player can leave the room and beat the game after correctly replicating the patterns.
 
 # Unique Considerations
