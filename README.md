@@ -8,6 +8,7 @@ An important design consideration was to create it such that the player can intu
 The project was successful because of the continuous iterative process used through out its development to consistently improve game play. For user-testing, I included people who do not have much experience with VR and those who are familiar with it.
 
 ![Demo](https://cloud.githubusercontent.com/assets/18746993/22241317/ddd5c282-e1ec-11e6-973b-f1a55703ad95.gif)
+
 Game Play in Unity
 
 ![Mid-game](https://cloud.githubusercontent.com/assets/18746993/22240951/4d754b1e-e1eb-11e6-92da-0a9bd42ec502.png)
