@@ -7,8 +7,10 @@ An important design consideration was to create it such that the player can intu
 # Puzzler
 The project was successful because of the continuous iterative process used through out its development to consistently improve game play. For user-testing, I included people who do not have much experience with VR and those who are familiar with it.
 
-Game play on Unity
 
+Game Play in Unity
+
+![Mid-game](Puzzler/Documentation/Screenshot_20161215-124210.png?raw=true "Mid-game")
 Mid-game
 
 # Design Process
