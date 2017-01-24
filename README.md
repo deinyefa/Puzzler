@@ -10,7 +10,7 @@ The project was successful because of the continuous iterative process used thro
 
 Game Play in Unity
 
-![Mid-game](Puzzler/Documentation/Screenshot_20161215-124210.png?raw=true "Mid-game")
+![Mid-game](https://cloud.githubusercontent.com/assets/18746993/22240951/4d754b1e-e1eb-11e6-92da-0a9bd42ec502.png)
 Mid-game
 
 # Design Process
