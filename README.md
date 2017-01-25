@@ -44,6 +44,7 @@ The forth and final test was conducted to test the game mechanics. When asked ab
 # Break down of the final piece
 The final design of the game is included as screenshots taken with a Nexus 5 below. At the start of the game, the user is faced with the Start UI and moved into the dungeon when the Google VR reticle is pointed at the start button and the trigger pressed. When in the room, random orbs light up in a random pattern and the player must click on the orbs that lit up in the correct pattern in order to exit the room. When the player leaves the room, he/she is met with the Restart UI and start again.
 
+![Intro](https://cloud.githubusercontent.com/assets/18746993/22293130/688d6c28-e2dc-11e6-8f28-2c086de2ccbe.png)
 Intro
 
 In the moment
