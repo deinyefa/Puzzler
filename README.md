@@ -16,7 +16,10 @@ Mid-game
 
 # Design Process
 Statement of Purpose: Puzzler is a mobile VR game targeted towards new VR users that challenges them to solve a familiar puzzle in a new way.
+
 Persona
+
+![Eve](https://cloud.githubusercontent.com/assets/18746993/22293586/304b1a20-e2de-11e6-9577-4496042806f6.png)
 
 Meet Eve
 For this project, I created a persona named Eve. Eve is a 21-year-old university student who knows little about VR. Eve is a free spirit who is always interested in trying new things. Eve always says “Life’s too short.”, and so she lives in the moment.
