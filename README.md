@@ -47,6 +47,7 @@ The final design of the game is included as screenshots taken with a Nexus 5 bel
 ![Intro](https://cloud.githubusercontent.com/assets/18746993/22293130/688d6c28-e2dc-11e6-8f28-2c086de2ccbe.png)
 Intro
 
+![In the moment](https://cloud.githubusercontent.com/assets/18746993/22293220/cce581b0-e2dc-11e6-88c9-a23242243ac7.png)
 In the moment
 
 Outro
