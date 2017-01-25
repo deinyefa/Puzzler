@@ -50,6 +50,7 @@ Intro
 ![In the moment](https://cloud.githubusercontent.com/assets/18746993/22293220/cce581b0-e2dc-11e6-88c9-a23242243ac7.png)
 In the moment
 
+![Outro](https://cloud.githubusercontent.com/assets/18746993/22293315/1833bc90-e2dd-11e6-976f-314ea8bcb1d5.png)
 Outro
 
 # Conclusion
