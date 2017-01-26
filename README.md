@@ -23,5 +23,5 @@ To build for Android (should have Android Studio):
 - Build and Run
 
 # Notes 
-- A full doucumentation of the game is available on [my Medium Page](https://medium.com/@df.eporwei/deinyefas-puzzler-project-c23383ab2128#.76pqh8a43 "My Medium Page")
+- A full doucumentation of the game is available on [my Medium Page](https://medium.com/@df.eporwei/deinyefas-puzzler-project-c23383ab2128#.76pqh8a43 "My Medium Page"). You can also visit [my portfolio page](https://deinyefa.github.io/Puzzler/) to see other projects I've worked on
 - This game is preset to the easiest difficulty level by default on the Unity Editor
