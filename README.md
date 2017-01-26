@@ -30,7 +30,10 @@ Meet Eve
 
 
 Sketches
+
 Here are some of the sketches I created to helped me lay the groundwork for the design of this project.
+
+![My Sketch](https://cloud.githubusercontent.com/assets/18746993/22341226/07841dae-e3be-11e6-97b3-32794fb0d5a2.jpg)
 
 
 # User Testing
